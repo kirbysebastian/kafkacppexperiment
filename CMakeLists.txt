@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.15)
-project(testkafkacpp)
+project(kafkacppexperiment)
 
 find_package(CppKafka REQUIRED)
 
